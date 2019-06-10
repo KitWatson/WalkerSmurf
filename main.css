@@ -4,7 +4,7 @@
 .fa {
 	padding: 20px;
 	font-size: 30px;
-	width: 15px;
+	width: 30px;
 	text-align: center;
 	text-decoration: none;
 	margin: 5px 5px;
@@ -45,19 +45,6 @@
 	background: #fffc00;
 	color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-.fa-envelope {
-	padding: 20px;
-	font-size: 30px;
-	width: 15px;
-	text-align: center;
-	text-decoration: none;
-	margin: 5px 5px;
-	border-radius: 50%;
-	opacity: 0.5
-	background: #fff;
-	margin-left: auto;
 }
 
 .wrapper {
