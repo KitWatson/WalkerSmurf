@@ -9,10 +9,11 @@
 	text-decoration: none;
 	margin: 5px 5px;
 	border-radius: 50%;
+	opacity: 0.5
 }
 
 .fa:hover {
-	opacity: 0.5;
+	opacity: 0.1;
 }
 
 .fa-facebook {
