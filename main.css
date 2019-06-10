@@ -2,12 +2,13 @@
 ----------------------------- */
 
 .fa {
-	padding: 20px;
+	padding: 10px;
 	font-size: 30px;
-	width: 30px;
+	width: 15px;
+	height: 15px;
 	text-align: center;
 	text-decoration: none;
-	margin: 5px 5px;
+	margin: 1px 1px;
 	border-radius: 50%;
 	opacity: 0.5
 }
@@ -17,33 +18,57 @@
 }
 
 .fa-facebook {
-	background: #3B5998;
+/*	background: #3B5998;*/
 	color: white;
+	background: #767d87;
+}
+.fa-facebook:hover {
+	background: #3B5998
 }
 
 .fa-twitter {
-	background: #55ACEE;
+/*	background: #55ACEE;*/
 	color: white;
+	background: #767d87;
+}
+.fa-twitter:hover {
+	background: #55ACEE
 }
 
 .fa-instagram {
-	background: #125688;
+/*	background: #125688;*/
 	color: white;
+	background: #767d87;
+}
+.fa-instagram:hover {
+	background: #125688
 }
 
 .fa-twitch {
-	background: #6441a5;
+/*	background: #6441a5;*/
 	color: white;
+	background: #767d87;
+}
+.fa-twitch:hover {
+	background: #6441a5
 }
 
 .fa-youtube-play {
-	background: #ff0000;
+/*	background: #ff0000;*/
 	color: white;
+	background: #767d87;
+}
+.fa-youtube-play:hover {
+	background: #ff0000
 }
 
 .fa-snapchat-ghost {
-	background: #fffc00;
+/*	background: #fffc00;*/
 	color: white;
+	background: #767d87;
+}
+.fa-snapchat-ghost:hover {
+	background: #fffc00;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
