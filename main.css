@@ -1,5 +1,30 @@
 /* Structure & Background
 ----------------------------- */
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
+    border-radius: 50%;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-twitch {
+    background: #6441a5;
+    color: white;
+  }
 .wrapper {
   position: fixed;
   top: 0;
@@ -188,4 +213,5 @@
     margin-left: -100px;
     margin-top: -100px;
   }
+
 }
